@@ -1,0 +1,12 @@
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFrameworkCore\bin\Debug\netcoreapp3.1\LoanSample.Customer.EntityFrameworkCore.deps.json
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFrameworkCore\bin\Debug\netcoreapp3.1\LoanSample.Customer.EntityFrameworkCore.dll
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFrameworkCore\bin\Debug\netcoreapp3.1\LoanSample.Customer.EntityFrameworkCore.pdb
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFrameworkCore\bin\Debug\netcoreapp3.1\LoanSample.Customer.Domain.dll
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFrameworkCore\bin\Debug\netcoreapp3.1\LoanSample.Customer.Domain.pdb
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFrameworkCore\obj\Debug\netcoreapp3.1\LoanSample.Customer.EntityFrameworkCore.csprojAssemblyReference.cache
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFrameworkCore\obj\Debug\netcoreapp3.1\LoanSample.Customer.EntityFrameworkCore.AssemblyInfoInputs.cache
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFrameworkCore\obj\Debug\netcoreapp3.1\LoanSample.Customer.EntityFrameworkCore.AssemblyInfo.cs
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFrameworkCore\obj\Debug\netcoreapp3.1\LoanSample.Customer.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFrameworkCore\obj\Debug\netcoreapp3.1\LoanSample.Customer.EntityFrameworkCore.csproj.CopyComplete
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFrameworkCore\obj\Debug\netcoreapp3.1\LoanSample.Customer.EntityFrameworkCore.dll
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFrameworkCore\obj\Debug\netcoreapp3.1\LoanSample.Customer.EntityFrameworkCore.pdb

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.Ddd.Application.Contracts" Version="3.0.4" />
+    <PackageReference Include="Volo.Abp.Identity.Application.Contracts" Version="3.0.4" />
+  </ItemGroup>
+
+</Project>

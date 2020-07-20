@@ -1,0 +1,17 @@
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFramework.Migration\bin\Debug\netcoreapp3.1\LoanSample.Customer.EntityFramework.Migration.deps.json
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFramework.Migration\bin\Debug\netcoreapp3.1\LoanSample.Customer.EntityFramework.Migration.runtimeconfig.json
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFramework.Migration\bin\Debug\netcoreapp3.1\LoanSample.Customer.EntityFramework.Migration.runtimeconfig.dev.json
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFramework.Migration\bin\Debug\netcoreapp3.1\LoanSample.Customer.EntityFramework.Migration.dll
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFramework.Migration\bin\Debug\netcoreapp3.1\LoanSample.Customer.EntityFramework.Migration.pdb
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFramework.Migration\bin\Debug\netcoreapp3.1\LoanSample.Customer.Domain.dll
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFramework.Migration\bin\Debug\netcoreapp3.1\LoanSample.Customer.EntityFrameworkCore.dll
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFramework.Migration\bin\Debug\netcoreapp3.1\LoanSample.Customer.EntityFrameworkCore.pdb
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFramework.Migration\bin\Debug\netcoreapp3.1\LoanSample.Customer.Domain.pdb
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFramework.Migration\obj\Debug\netcoreapp3.1\LoanSample.Customer.EntityFramework.Migration.csprojAssemblyReference.cache
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFramework.Migration\obj\Debug\netcoreapp3.1\LoanSample.Customer.EntityFramework.Migration.AssemblyInfoInputs.cache
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFramework.Migration\obj\Debug\netcoreapp3.1\LoanSample.Customer.EntityFramework.Migration.AssemblyInfo.cs
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFramework.Migration\obj\Debug\netcoreapp3.1\LoanSample.Customer.EntityFramework.Migration.csproj.CoreCompileInputs.cache
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFramework.Migration\obj\Debug\netcoreapp3.1\LoanSample.Customer.EntityFramework.Migration.csproj.CopyComplete
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFramework.Migration\obj\Debug\netcoreapp3.1\LoanSample.Customer.EntityFramework.Migration.dll
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFramework.Migration\obj\Debug\netcoreapp3.1\LoanSample.Customer.EntityFramework.Migration.pdb
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.EntityFramework.Migration\obj\Debug\netcoreapp3.1\LoanSample.Customer.EntityFramework.Migration.genruntimeconfig.cache

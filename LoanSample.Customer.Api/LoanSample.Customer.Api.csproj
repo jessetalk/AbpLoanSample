@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
+    <PackageReference Include="Volo.Abp.AspNetCore.Mvc" Version="3.0.4" />
+    <PackageReference Include="Volo.Abp.Autofac" Version="3.0.4" />
+
+  
+    
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LoanSample.Customer.Application\LoanSample.Customer.Application.csproj" />
+    <ProjectReference Include="..\LoanSample.Customer.EntityFramework.Migration\LoanSample.Customer.EntityFramework.Migration.csproj" />
+    <ProjectReference Include="..\LoanSample.Customer.EntityFrameworkCore\LoanSample.Customer.EntityFrameworkCore.csproj" />
+  </ItemGroup>
+
+</Project>

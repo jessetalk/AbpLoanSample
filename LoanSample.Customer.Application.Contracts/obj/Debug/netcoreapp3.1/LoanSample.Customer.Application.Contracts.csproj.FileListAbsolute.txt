@@ -1,0 +1,9 @@
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.Application.Contracts\obj\Debug\netcoreapp3.1\LoanSample.Customer.Application.Contracts.csprojAssemblyReference.cache
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.Application.Contracts\obj\Debug\netcoreapp3.1\LoanSample.Customer.Application.Contracts.AssemblyInfoInputs.cache
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.Application.Contracts\obj\Debug\netcoreapp3.1\LoanSample.Customer.Application.Contracts.AssemblyInfo.cs
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.Application.Contracts\obj\Debug\netcoreapp3.1\LoanSample.Customer.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.Application.Contracts\bin\Debug\netcoreapp3.1\LoanSample.Customer.Application.Contracts.deps.json
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.Application.Contracts\bin\Debug\netcoreapp3.1\LoanSample.Customer.Application.Contracts.dll
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.Application.Contracts\bin\Debug\netcoreapp3.1\LoanSample.Customer.Application.Contracts.pdb
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.Application.Contracts\obj\Debug\netcoreapp3.1\LoanSample.Customer.Application.Contracts.dll
+D:\jesse\training\abp\LoanSample\LoanSample.Customer.Application.Contracts\obj\Debug\netcoreapp3.1\LoanSample.Customer.Application.Contracts.pdb

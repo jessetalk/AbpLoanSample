@@ -1,0 +1,3 @@
+D:\jesse\training\abp\LoanSample\LoanSample\obj\Debug\netcoreapp3.1\LoanSample.Customer.Domain.AssemblyInfoInputs.cache
+D:\jesse\training\abp\LoanSample\LoanSample\obj\Debug\netcoreapp3.1\LoanSample.Customer.Domain.AssemblyInfo.cs
+D:\jesse\training\abp\LoanSample\LoanSample\obj\Debug\netcoreapp3.1\LoanSample.Customer.Domain.csproj.CoreCompileInputs.cache
