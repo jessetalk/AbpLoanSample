@@ -51,6 +51,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "IdentityServer4.AccessTokenValidation": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -60,6 +64,14 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.5.1, )"
+            },
+            "Volo.Abp.Account.Web.IdentityServer": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "Volo.Abp.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.0.4, )"
             },
             "Volo.Abp.AspNetCore.Mvc": {
               "target": "Package",

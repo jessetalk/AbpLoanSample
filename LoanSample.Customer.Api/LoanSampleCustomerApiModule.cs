@@ -9,6 +9,10 @@ using Volo.Abp.AspNetCore.Mvc;
 using Volo.Abp.Autofac;
 using Volo.Abp.Modularity;
 using Microsoft.AspNetCore.Hosting;
+using System.Net.Http;
+using Microsoft.Extensions.Configuration;
+using Volo.Abp.AspNetCore.Authentication.JwtBearer;
+using Volo.Abp.Account.Web;
 
 namespace LoanSample.Customer.Api
 {
@@ -16,7 +20,9 @@ namespace LoanSample.Customer.Api
     [DependsOn(typeof(AbpAspNetCoreMvcModule))]
     [DependsOn(typeof(AbpAutofacModule), 
         typeof(LoanSampleCustomerApplicationModule),
-        typeof(LoanSampleCustomerEntityFrameworkCoreModule)
+        typeof(LoanSampleCustomerEntityFrameworkCoreModule),
+        typeof(AbpAspNetCoreAuthenticationJwtBearerModule),
+        typeof(AbpAccountWebIdentityServerModule)
         )]
 
     public class LoanSampleCustomerApiModule:AbpModule
@@ -69,12 +75,22 @@ namespace LoanSample.Customer.Api
             app.UseConfiguredEndpoints();
         }
 
-      
+
+
+        private void ConfigureAuthentication(ServiceConfigurationContext context, IConfiguration configuration)
+        {
+
+            context.Services.AddAuthentication("Bearer")
+                .AddIdentityServerAuthentication(options =>
+                {
+                    options.Authority = configuration["AuthServer:Authority"];
+                    options.ApiName = configuration["AuthServer:ApiName"];
+                    options.RequireHttpsMetadata = false;
+                });
+        }
 
 
 
-
-  
 
         private void ConfigureSwaggerServices(IServiceCollection services)
         {

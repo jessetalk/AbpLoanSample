@@ -1,6 +1,7 @@
 ﻿using LoanSample.Customer.Application.Contracts;
 using LoanSample.Customer.Application.Contracts.Model;
 using LoanSample.Customer.Domain.Entity;
+using Microsoft.AspNetCore.Authorization;
 using System;
 using System.Collections.Generic;
 using System.Reflection;
@@ -12,6 +13,7 @@ using Volo.Abp.Uow;
 
 namespace LoanSample.Customer.Application
 {
+    [Authorize]
     public class CustomerService : ApplicationService, ICustomerService
     {
         private readonly IRepository<Domain.Entity.Customer> _customerRepo;

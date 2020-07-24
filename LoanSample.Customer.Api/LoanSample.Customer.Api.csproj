@@ -5,12 +5,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="IdentityServer4.AccessTokenValidation" Version="3.0.1" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
     <PackageReference Include="Volo.Abp.AspNetCore.Mvc" Version="3.0.4" />
     <PackageReference Include="Volo.Abp.Autofac" Version="3.0.4" />
+    <PackageReference Include="Volo.Abp.Account.Web.IdentityServer" Version="3.0.4" />
+    <PackageReference Include="Volo.Abp.AspNetCore.Authentication.JwtBearer" Version="3.0.4" />
 
-  
-    
+
+
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.5">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
